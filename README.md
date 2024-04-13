@@ -21,13 +21,22 @@ To run these notebooks, you'll need [Python](https://www.python.org/) and [Jupyt
 
 ## Results
 
-Summarize the results or findings of each project here.
+Below are the key findings and outcomes of each project:
+
+- **Customer_predict_tf.ipynb**: Describe the main results or predictions made in this project.
+- **House_price_predeicting01.ipynb**: Summarize the findings related to house price prediction and model performance.
+- **Predicting_Salaraies_using_DecisionTreeRregression_SVR_LinearRegression.ipynb**: Highlight the results obtained from predicting salaries using different regression techniques.
+- **Sleep_Disorder_Prediction.ipynb**: Discuss the effectiveness of the sleep disorder prediction model and any insights gained from the analysis.
+- **Wine_Quality_Predictintion.ipynb**: Provide an overview of the wine quality prediction results and the accuracy of the model.
 
 ## Future Work
 
-Include any potential improvements or extensions to the projects.
+Here are some potential improvements or areas for further exploration in each project:
 
-## Acknowledgments
+- **Customer_predict_tf.ipynb**: Explore advanced neural network architectures or hyperparameter tuning to improve prediction accuracy.
+- **House_price_predeicting01.ipynb**: Investigate additional features or consider more advanced regression models to enhance prediction performance.
+- **Predicting_Salaraies_using_DecisionTreeRregression_SVR_LinearRegression.ipynb**: Experiment with ensemble methods or feature engineering techniques to improve salary prediction accuracy.
+- **Sleep_Disorder_Prediction.ipynb**: Collect more diverse data and explore additional features that may contribute to better sleep disorder prediction.
+- **Wine_Quality_Predictintion.ipynb**: Fine-tune the model parameters or consider incorporating domain knowledge to refine wine quality predictions.
 
-List any external resources, datasets, or libraries used in the projects.
 
